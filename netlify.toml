@@ -1,4 +1,3 @@
 [build]
-  command= "gatsby build"
   publish= "public"
   functions = "functions/"
